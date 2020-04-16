@@ -1,4 +1,4 @@
-<img alt="GoStack" src="src/images/desafio.png" />
+<img alt="GoStack" src="assets/desafio.png" />
 
 <h3 align="center">
   Desafio 05: Primeiro projeto Node.js
