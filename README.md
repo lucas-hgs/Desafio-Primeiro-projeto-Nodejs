@@ -6,10 +6,6 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, foi proposto criar uma aplicação para treinar o que foi ensinado no primeiro módulo de React Native.
-
-Foi continuado o desenvolvimento da aplicação que armazena repositórios do portfólio dos últimos desafios de [Node.js](https://github.com/lucas-hgs/desafio-conceitos-nodejs) e [ReactJS](https://github.com/lucas-hgs/desafio-conceitos-reactjs).
-
 Nesse desafio, foi proposto criar uma aplicação para continuar treinando o que foi ensinado até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
 
 Essa é uma aplicação que armazena transações financeiras de entrada e saída, que permiti o cadastro e a listagem dessas transações.
